@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.cloudflare.net/workers",
-  "name": "cloudflare-temp-email-worker",
+  "name": "my-personal-temp-email-api",
   "main": "worker.js",
   "compatibility_date": "2026-01-01",
   "compatibility_flags": ["nodejs_compat"],
